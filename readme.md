@@ -26,5 +26,5 @@
 - php artisan key:generate
 
 ## Start 
-- docker-compose up -d [--build]
+- docker-compose up
 - localhost:8080
